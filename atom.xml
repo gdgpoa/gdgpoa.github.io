@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[GDG Poa]]></title>
+  <link href="http://gdgpoa.com.br/atom.xml" rel="self"/>
+  <link href="http://gdgpoa.com.br/"/>
+  <updated>2014-05-28T14:59:29-03:00</updated>
+  <id>http://gdgpoa.com.br/</id>
+  <author>
+    <name><![CDATA[GDG POA Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

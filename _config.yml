@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://gdgpoa.com.br
+title: GDG Poa
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: GDG POA Team
 simple_search: https://www.google.com/search
 description:
 
